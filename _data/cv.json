@@ -2,33 +2,30 @@
   "basics": {
     "name": "Zijin Chen",
     "email": "zijin.chen@utas.edu.au",
-    "phone": "61+448374042",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently PhD student at Red Brick University.",
+    "phone": "",
+    "website": "https://github.com/ZJhin",
+    "summary": "PhD researcher specialising in Southern Ocean and Antarctic sea-ice processes, with a strong focus on sea-ice-driven water-mass transformation (WMT), freshwater redistribution, and ocean ventilation and carbon uptake in CMIP6 climate models. Extensive experience in large-scale model diagnostics, inter-model comparison, and Python-based analysis on HPC systems. Actively preparing multiple journal manuscripts and seeking post-PhD research opportunities in polar climate and ocean-ice interactions.",
     "location": {
       "address": "",
       "postalCode": "7000",
       "city": "Hobart",
-      "countryCode": "Austratila",
-      "region": ""
+      "countryCode": "Australia",
+      "region": "TAS"
     },
     "profiles": [
+      {
+        "network": "GitHub",
+        "username": "ZJhin",
+        "url": "https://github.com/ZJhin"
+      },
       {
         "network": "Google Scholar",
         "username": "",
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
       }
-    ]
+    ],
+    "label": "PhD Candidate | Physical Oceanography & Climate Science",
+    "affiliation": "Australian Antarctic Partnership Program (AAPP) & University of Tasmania"
   },
   "work": [],
   "education": [

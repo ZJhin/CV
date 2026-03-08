@@ -22,6 +22,10 @@
     {% if cv.basics.label %}
     <h2>{{ cv.basics.label }}</h2>
     {% endif %}
+
+    {% if cv.basics.affiliation %}
+    <p>{{ cv.basics.affiliation }}</p>
+    {% endif %}
     
     <div class="cv-contact">
       {% if cv.basics.email %}
@@ -63,7 +67,7 @@
   {% if cv.basics.summary %}
   <!-- Summary -->
   <div class="cv-section">
-    <h2>Summary</h2>
+    <h2>Research Profile</h2>
     <p>{{ cv.basics.summary }}</p>
   </div>
   {% endif %}
