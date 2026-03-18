@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "The impact of Antarctic sea ice on Southern Ocean water mass transformation in coupled climate models"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2025-06-08-antarctic-sea-ice-water-mass-transformation
+excerpt: 'Published study on the role of Antarctic sea ice in Southern Ocean water-mass transformation across coupled climate models.'
+date: 2025-09-01
+venue: 'Journal of Geophysical Research: Oceans'
+paperurl: 'https://doi.org/10.1029/2025JC022445'
+citation: 'Chen, Z., Hobbs, W., Chase, Z., & Zika, J. (2025). &quot;The impact of Antarctic sea ice on Southern Ocean water mass transformation in coupled climate models.&quot; <i>Journal of Geophysical Research: Oceans</i>, 130(9), e2025JC022445.'
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+This paper presents Chapter 1 of my PhD research and quantifies how Antarctic sea-ice processes modulate Southern Ocean water-mass transformation in coupled climate models.

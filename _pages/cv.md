@@ -42,9 +42,9 @@ PhD researcher specialising in Southern Ocean and Antarctic sea-ice processes, w
 - Climate model evaluation and inter-model spread (CMIP6)
 
 ## Publications & Manuscripts
-- Chen, Z., Hobbs, W., Chase, Z., & Zika, J. (2025). *The impact of Antarctic sea ice on Southern Ocean water mass transformation in coupled climate models*. **Journal of Geophysical Research: Oceans, 130**(9), e2025JC022445. *(Published; Chapter 1)*
-- Chen, Z., et al. *Drivers of inter-model spread in sea-ice-driven water-mass transformation*. *(In preparation / under review; Chapter 2)*
-- Chen, Z., et al. *Role of Southern Ocean ventilation in modulating carbon uptake*. *(In preparation; Chapter 3)*
+- Chen, Z., Hobbs, W., Chase, Z., & Zika, J. (2025). *The impact of Antarctic sea ice on Southern Ocean water mass transformation in coupled climate models*. **Journal of Geophysical Research: Oceans, 130**(9), e2025JC022445. https://doi.org/10.1029/2025JC022445 *(Published; Chapter 1)*
+- Chen, Z., Hobbs, W., & Zika, J. *Drivers of inter-model spread in sea-ice-driven water-mass transformation*. Manuscript in preparation for submission to a peer-reviewed ocean/climate journal. *(PhD Chapter 2)*
+- Chen, Z., Chase, Z., Hobbs, W., & collaborators. *Role of Southern Ocean ventilation in modulating carbon uptake*. Manuscript in preparation. *(PhD Chapter 3)*
 
 ## Conference Presentations
 - **Ocean Sciences Meeting (OSM) 2026, Glasgow, UK**  
