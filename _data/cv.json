@@ -63,32 +63,25 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "The impact of Antarctic sea ice on Southern Ocean water mass transformation in coupled climate models",
+      "publisher": "Journal of Geophysical Research: Oceans",
+      "releaseDate": "2025-09-01",
+      "website": "https://doi.org/10.1029/2025JC022445",
+      "summary": "Chen, Z., Hobbs, W., Chase, Z., & Zika, J. Published article on how Antarctic sea ice shapes Southern Ocean water-mass transformation in coupled climate models."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Drivers of inter-model spread in sea-ice-driven water-mass transformation",
+      "publisher": "Manuscript in preparation",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "PhD Chapter 2 manuscript led by Zijin Chen examining the sources of inter-model spread in sea-ice-driven water-mass transformation diagnostics."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Role of Southern Ocean ventilation in modulating carbon uptake",
+      "publisher": "Manuscript in preparation",
+      "releaseDate": "2026-01-02",
+      "website": "",
+      "summary": "PhD Chapter 3 manuscript on the links between Southern Ocean ventilation changes and carbon uptake variability."
     }
   ],
   "presentations": [
