@@ -2,7 +2,7 @@
 title: "The impact of Antarctic sea ice on Southern Ocean water mass transformation in coupled climate models"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-08-antarctic-sea-ice-water-mass-transformation
+permalink: /publication/2025-09-01-antarctic-sea-ice-water-mass-transformation
 excerpt: 'Published study on the role of Antarctic sea ice in Southern Ocean water-mass transformation across coupled climate models.'
 date: 2025-09-01
 venue: 'Journal of Geophysical Research: Oceans'
